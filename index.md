@@ -13,12 +13,25 @@ I obtained my Bachelor's degree from Huazhong University of Science and Technolo
 # Publication
 
 ## 2020
-*   Securing UnSafe Rust Programs with XRust, *ICSE 20* 
-    *Peiming Liu*, Gang Zhao, Jeff Huang
+*   Securing UnSafe Rust Programs with XRust.  
+International Conference on Software Engineering (**ICSE 20**)  
+**Peiming Liu**, Gang Zhao, Jeff Huang
+
 ## 2019
+* Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers, International Conference on Cyber-Physical Systems (**ICCPS 19**)  
+Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Teaching
 
+* Teaching Assistant, CSCE 629, Analysis of Algorithm, 2018 Spring
+
+* Teaching Assistant, CSCE 611, Operation System and Applicaton, 2019 Fall
+
 # Professional Services
 
+Software Engineer Intern @ Coderrect, 2020
+Software Engineer Intern @ Tencent, IEG, 2016
+
 # Selected Award
+
+National Scholarship, Huazhong University of Science and Technology.
