@@ -19,7 +19,8 @@ International Conference on Software Engineering (**ICSE 20**)
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
-* Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers, International Conference on Cyber-Physical Systems (**ICCPS 19**)  
+* Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers.  
+International Conference on Cyber-Physical Systems (**ICCPS 19**)  
 Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Teaching
