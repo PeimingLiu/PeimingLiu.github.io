@@ -8,7 +8,8 @@ Hi! I am a third-year Ph.D. student in the
 [Prof. Jeff Huang](https://parasol.tamu.edu/~jeff/).
 My research insterets are Program Languages and Static Analysis.
 
-I obtained my Bachelor's degree from Huazhong University of Science and Technology.
+I obtained my Bachelor's degree from 
+[Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 # Publication
 
