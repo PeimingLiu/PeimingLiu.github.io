@@ -14,12 +14,12 @@ I obtained my Bachelor's degree from
 # Publication
 
 ## 2020
-*   Securing UnSafe Rust Programs with XRust.  
+*   _Securing UnSafe Rust Programs with XRust_.  
 International Conference on Software Engineering (**ICSE'20**)  
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
-* Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers.  
+* _Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers_.  
 International Conference on Cyber-Physical Systems (**ICCPS'19**)  
 Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
