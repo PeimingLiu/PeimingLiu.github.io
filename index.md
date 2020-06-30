@@ -14,9 +14,8 @@ I obtained my Bachelor's degree from
 # Publication
 
 ## 2020
-
-* _OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs_
-The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'29**, acceptance rate: 18%)
+* _OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs_.  
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'29**, acceptance rate: 18%)  
 Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
 
 ## 2020
@@ -25,7 +24,7 @@ International Conference on Software Engineering (**ICSE'20**, accepetance rate:
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
-* _Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers_.  
+* [Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers](https://peimingliu.github.io/asset/pic/iccps19.pdf)  
 International Conference on Cyber-Physical Systems (**ICCPS'19**)  
 Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
@@ -43,7 +42,7 @@ Software Engineer Intern @ Tencent, IEG, 2016
 
 # Profession Services
 
-Subreviewer for : OOPSLA'19, FSE'19, PLDI'19, ICSE'19
+Subreviewer for : OOPSLA'20, OOPSLA'19, FSE'19, PLDI'19, ICSE'19
 
 # Selected Award
 
