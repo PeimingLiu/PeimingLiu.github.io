@@ -20,7 +20,7 @@ Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, 
 
 ## 2020
 * [Securing UnSafe Rust Programs with XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf).  
-International Conference on Software Engineering (**ICSE'20**, accepetance rate: 23%)  
+International Conference on Software Engineering (**ICSE'20**, accepetance rate: 20%)  
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
