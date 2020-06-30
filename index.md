@@ -15,7 +15,7 @@ I obtained my Bachelor's degree from
 
 ## 2020
 * _OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs_.  
-The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'29**, acceptance rate: 18%)  
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'20**, acceptance rate: 18%)  
 Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
 
 ## 2020
