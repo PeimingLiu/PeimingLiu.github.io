@@ -14,7 +14,7 @@ I obtained my Bachelor's degree from
 # Publication
 
 ## 2020
-*   _Securing UnSafe Rust Programs with XRust_.  
+* [Securing UnSafe Rust Programs with XRust](https://peimingliu.github.io/asset/pic/icse2020-paper1026.pdf).  
 International Conference on Software Engineering (**ICSE'20**)  
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
