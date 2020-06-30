@@ -14,8 +14,14 @@ I obtained my Bachelor's degree from
 # Publication
 
 ## 2020
+
+* _OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs_
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'29**, acceptance rate: 18%)
+Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
+
+## 2020
 * [Securing UnSafe Rust Programs with XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf).  
-International Conference on Software Engineering (**ICSE'20**)  
+International Conference on Software Engineering (**ICSE'20**, accepetance rate: 23%)  
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
