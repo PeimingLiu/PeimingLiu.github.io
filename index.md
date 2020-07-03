@@ -18,7 +18,6 @@ I obtained my Bachelor's degree from
 The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'20**, acceptance rate: 18%)  
 Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
 
-## 2020
 * [Securing UnSafe Rust Programs with XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf).  
 International Conference on Software Engineering (**ICSE'20**, accepetance rate: 20%)  
 **Peiming Liu**, Gang Zhao, Jeff Huang
