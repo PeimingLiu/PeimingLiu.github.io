@@ -14,7 +14,7 @@ I obtained my Bachelor's degree from
 # Publication
 
 ## 2020
-* _OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs_.  
+* [OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs](https://peimingliu.github.io/asset/pic/SC20_OMPRacer-v2.pdf)  
 The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'20**, acceptance rate: 18%)  
 Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
 
