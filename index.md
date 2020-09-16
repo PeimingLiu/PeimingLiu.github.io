@@ -36,7 +36,7 @@ Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 # Industry Experiences
 
 Software Engineer Intern @ [Coderrect](https://coderrect.com), 2020.  
-Working on a [static data race detection tool](https://coderrect.com/download/), found real races in Linux Kernel, memcached, redis, redisgraph, etc.
+Working on a [static data race detection tool](https://coderrect.com/download/), found real races in [Linux Kernel, memcached, redis, Covid-sim, etc](https://coderrect.com/openscan/).
 
 Software Engineer Intern @ Tencent, IEG, 2016
 
