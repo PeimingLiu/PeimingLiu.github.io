@@ -14,7 +14,7 @@ I obtained my Bachelor's degree from
 # Publication
 ## 2021
 * When Threads Meet Events: Efficient and Precise Static Race Detection with Origins  
-*Symposium on Programming Language Design & Implementation (PLDI’ 21, acceptance rate: 27%)*  
+*Symposium on Programming Language Design & Implementation (**PLDI’ 21**, acceptance rate: 27%)*  
 Bozhen Liu, **Peiming Liu (co-first author)**, Yanze Li, Chia-Che Tsai, Dilma Da Silva, Jeff Huang 
 
 ## 2020
