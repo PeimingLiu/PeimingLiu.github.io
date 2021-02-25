@@ -12,19 +12,23 @@ I obtained my Bachelor's degree from
 [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 # Publication
+## 2021
+* When Threads Meet Events: Efficient and Precise Static Race Detection with Origins  
+*Symposium on Programming Language Design & Implementation (PLDI’ 21, acceptance rate: 27%)*  
+Bozhen Liu, **Peiming Liu (co-first author)**, Yanze Li, Chia-Che Tsai, Dilma Da Silva, Jeff Huang 
 
 ## 2020
 * [OMPRacer: A Scalable and Precise StaticRace Detector for OpenMP Programs](https://peimingliu.github.io/asset/pic/SC20_OMPRacer-v2.pdf)  
-The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'20**, acceptance rate: 18%)  
+*The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC'20**, acceptance rate: 18%)*  
 Bradley Swain, Yanze Li, **Peiming Liu**, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang
 
 * [Securing UnSafe Rust Programs with XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf).  
-International Conference on Software Engineering (**ICSE'20**, accepetance rate: 20%)  
+*International Conference on Software Engineering (**ICSE'20**, accepetance rate: 20%)*  
 **Peiming Liu**, Gang Zhao, Jeff Huang
 
 ## 2019
 * [Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers](https://peimingliu.github.io/asset/pic/iccps19.pdf)  
-International Conference on Cyber-Physical Systems (**ICCPS'19**)  
+*International Conference on Cyber-Physical Systems (**ICCPS'19**)*  
 Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Teaching
