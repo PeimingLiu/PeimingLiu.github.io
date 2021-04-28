@@ -9,11 +9,12 @@ Hi! I am a forth-year Ph.D. student in the
 My research interest are Program Languages and Static Analysis.
 
 I obtained my Bachelor's degree from 
-[Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+[Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
+You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 
 # Publication
 ## 2021
-* When Threads Meet Events: Efficient and Precise Static Race Detection with Origins  
+* [When Threads Meet Events: Efficient and Precise Static Race Detection with Origins](https://peimingliu.github.io/asset/pldi21.pdf)  
 *Symposium on Programming Language Design & Implementation (**PLDI’ 21**, acceptance rate: 27%)*  
 Bozhen Liu, **Peiming Liu (co-first author)**, Yanze Li, Chia-Che Tsai, Dilma Da Silva, Jeff Huang 
 
