@@ -40,7 +40,7 @@ Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Industry Experiences
 
-Graduate Research Intern @ [Intel Labs, Security & Privacy Group](https://www.intel.com/content/www/us/en/research/overview.html), 2021
+Graduate Research Intern @ [Intel Labs, Security & Privacy Group](https://www.intel.com/content/www/us/en/research/overview.html), 2021   
 Work on compiler-based security.
 
 Software Engineer Intern @ [Coderrect](https://coderrect.com), 2020.  
