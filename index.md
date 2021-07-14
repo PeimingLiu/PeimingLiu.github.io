@@ -40,8 +40,11 @@ Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Industry Experiences
 
+Graduate Research Intern @ [Intel Labs, Security & Privacy Group](https://www.intel.com/content/www/us/en/research/overview.html), 2021
+Work on compiler-based security.
+
 Software Engineer Intern @ [Coderrect](https://coderrect.com), 2020.  
-Working on a [static data race detection tool](https://coderrect.com/download/), found real races in [Linux Kernel, memcached, redis, Covid-sim, etc](https://coderrect.com/openscan/).
+Work on a [static data race detection tool](https://coderrect.com/download/), found real races in [Linux Kernel, memcached, redis, Covid-sim, etc](https://coderrect.com/openscan/).
 
 Software Engineer Intern @ Tencent, IEG, 2016
 
