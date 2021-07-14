@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 a:hover, a:focus {
   color:#069;
 }
@@ -10,3 +8,5 @@ a:hover, a:focus {
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
 }
+
+@import "{{ site.theme }}";
