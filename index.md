@@ -15,7 +15,7 @@ You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 # Publication
 ## 2021
 * **OpenRace: An Open Source Framework for Statically Detecting Data Races**  
-*International Workshop on Software Correctness for HPC Applications (Correctness 2021)*  
+*International Workshop on Software Correctness for HPC Applications (SC Correctness 2021)*  
 Bradley Swain, Bozhen Liu, **Peiming Liu**, Yanze Li, Addison Crump, Rohan Khera, Jeff Huang
 
 * [When Threads Meet Events: Efficient and Precise Static Race Detection with Origins](https://peimingliu.github.io/asset/pic/pldi21-paper305.pdf)  
