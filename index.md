@@ -14,12 +14,12 @@ You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 
 # Publication
 ## 2022
-* [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/PUS.pdf)  
+* [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/pic/PUS.pdf)  
 *International Conference on Software Engineering (**ICSE'22**, to appear)*   
 **Peiming Liu**, Yanze Li, Bradley Swain, Jeff Huang    
 
 ## 2021
-* [OpenRace: An Open Source Framework for Statically Detecting Data Races](https://peimingliu.github.io/asset/open-race.pdf)  
+* [OpenRace: An Open Source Framework for Statically Detecting Data Races](https://peimingliu.github.io/asset/pic/open-race.pdf)  
 *International Workshop on Software Correctness for HPC Applications (SC Correctness 2021)*  
 Bradley Swain, Bozhen Liu, **Peiming Liu**, Yanze Li, Addison Crump, Rohan Khera, Jeff Huang
 
