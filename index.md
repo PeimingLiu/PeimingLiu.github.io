@@ -15,7 +15,7 @@ You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 # Publication
 ## 2022
 * [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/pic/PUS.pdf)  
-*International Conference on Software Engineering (**ICSE'22**, to appear)*   
+*International Conference on Software Engineering (**ICSE'22**)*   
 **Peiming Liu**, Yanze Li, Bradley Swain, Jeff Huang    
 
 ## 2021
