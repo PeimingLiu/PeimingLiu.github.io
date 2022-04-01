@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am a forth-year Ph.D. student in the 
+Hi! I received my Ph.D. from the 
 [Computer Science & Engineering Department](https://engineering.tamu.edu/cse/index.html) at 
 [Texas A&M University](https://www.tamu.edu/), advised by 
 [Prof. Jeff Huang](https://parasol.tamu.edu/~jeff/).
