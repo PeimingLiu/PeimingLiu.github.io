@@ -12,6 +12,8 @@ I obtained my Bachelor's degree from
 [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
 You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 
+I am joining Google after graduation and working on MLIR project.
+
 # Publication
 ## 2022
 * [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/pic/PUS.pdf)  
