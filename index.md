@@ -51,6 +51,9 @@ Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 
 # Industry Experiences
 
+Software Engineer @ Google (CoreML 2022-2023, Research 2023-Present).
+Work on ML Compiler/MLIR Sparisifier.
+
 Graduate Research Intern @ [Intel Labs, Security & Privacy Group](https://www.intel.com/content/www/us/en/research/overview.html), 2021   
 Work on compiler-based security.
 
@@ -61,6 +64,7 @@ Software Engineer Intern @ Tencent, IEG, 2016
 
 # Profession Services
 
+Program Committee: IPDPS 2024
 Subreviewer for : OOPSLA'20, OOPSLA'19, FSE'19, PLDI'19, ICSE'19
 
 # Selected Award
