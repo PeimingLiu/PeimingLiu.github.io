@@ -12,7 +12,7 @@ I obtained my Bachelor's degree from
 [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
 You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 
-I am joining Google after graduation and working on MLIR project.
+Right now, I am a software enginer @ Google Research working on MLIR project (MLIR Sparsifer).
 
 # Publication
 ## 2022
@@ -52,7 +52,7 @@ Ali Akbari, **Peiming Liu**, Bobak J. Mortazavi, Roozbeh Jafari
 # Industry Experiences
 
 Software Engineer @ Google (CoreML 2022-2023, Research 2023-Present).  
-Work on ML Compiler/MLIR Sparisifier.
+Work on ML Compiler/MLIR Sparsifier.
 
 Graduate Research Intern @ [Intel Labs, Security & Privacy Group](https://www.intel.com/content/www/us/en/research/overview.html), 2021   
 Work on compiler-based security.
