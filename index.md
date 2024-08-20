@@ -15,6 +15,17 @@ You can obtain my [CV here](https://peimingliu.github.io/asset/pic/CV.pdf)
 Right now, I am a software enginer @ Google Research working on MLIR project (MLIR Sparsifer).
 
 # Publication
+## 2024
+* Compiler Support for Sparse Tensor Convolutions (To Appear)  
+*Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA, October 2024*  
+**Peiming Liu**, Alexander J. Root, Anlun Xu, Yinying Li, Fredrik Kjolstad, and Aart J.C Bik
+  
+* Compilation of Shape Operators on Sparse Arrays (To Appear)  
+*Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA, October 2024*  
+Alexander J. Root, Bobby Yan, **Peiming Liu**, Christophe Gyurgyik, Aart J.C Bik, and Fredrik Kjolstad
+
+
+  
 ## 2022
 * [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/pic/PUS.pdf)  
 *International Conference on Software Engineering (**ICSE'22**, <span style="color:red">distinguished paper award</span>)*   
